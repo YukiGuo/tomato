@@ -1,0 +1,6 @@
+<!--components/list/list.wxml-->
+<view class='wrapper'>
+  <text >读书</text>
+  <text>30分钟</text>
+</view>
+

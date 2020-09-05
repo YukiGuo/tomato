@@ -1,0 +1,24 @@
+/* components/button/button.wxss */
+button ::after{border:none;}
+.button-hover{opacity: 0.9;}
+.t-btn{
+  width: 540rpx;
+  height: 80rpx;
+  border-radius: 16rpx;
+  font-size: 26rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.t-btn.change{
+  background: linear-gradient(to right,	#FF7F50,	#FF4500);
+  opacity: 0.9;
+}
+.t-btn.default{
+background: transparent;
+border: solid 1px#d81e06;
+}
+.t-btn.mini{
+  width: 310rpx;
+}

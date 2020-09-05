@@ -1,3 +1,6 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "t-list":"../../components/list/list",
+    "t-button": "../../components/button/button"
+  }
 }

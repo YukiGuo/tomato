@@ -2,7 +2,9 @@
   "pages":[
     "pages/index/index",
     "pages/total/total",
-    "pages/my/my"
+    "pages/my/my",
+    "components/list/list",
+    "components/button/button"
   ],
   "window":{
     "backgroundTextStyle":"light",

@@ -1,0 +1,5 @@
+<button 
+class="t-btn {{type==='change'? 'change':'default'}} {{size==='mini' &&'mini'}}"
+>
+{{text}}
+</button>

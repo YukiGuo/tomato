@@ -7,6 +7,8 @@
       <text class="userinfo-nickname">{{userInfo.nickName}}</text>
     </block>
   </view>
+  <t-button text="创建任务" type="change" size="mini"></t-button>
+   <t-button text="创建任务" type="default" size="mini"></t-button>
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>

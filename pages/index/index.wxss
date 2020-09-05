@@ -1,4 +1,6 @@
 /**index.wxss**/
+@import "../../components/list/list.wxss";
+@import "../../components/button/button.wxss";
 .userinfo {
   display: flex;
   flex-direction: column;
