@@ -9,6 +9,8 @@
   </view>
   <t-button text="创建任务" type="change" size="mini"></t-button>
    <t-button text="创建任务" type="default" size="mini"></t-button>
+   <t-clock 
+   ></t-clock>
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>

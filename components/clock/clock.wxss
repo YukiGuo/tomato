@@ -1,0 +1,11 @@
+/* components/clock/clock.wxss */
+.t-clock{margin: auto;}
+.t-clock-content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200rpx;
+  height:200rpx;
+  border: solid 4rpx #999;
+  border-radius: 50%;
+}

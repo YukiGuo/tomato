@@ -1,0 +1,6 @@
+<!--components/clock/clock.wxml-->
+
+<view class='t-clock'>
+<view class='t-clock-content'>{{text}}</view>
+
+</view>
