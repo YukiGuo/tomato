@@ -1,11 +1,13 @@
 {
   "pages":[
+      "components/confirm/confirm",
     "pages/index/index",
     "pages/total/total",
     "pages/my/my",
     "components/list/list",
     "components/button/button",
     "components/clock/clock"
+  
   ],
   "window":{
     "backgroundTextStyle":"light",

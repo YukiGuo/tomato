@@ -11,6 +11,7 @@
    <t-button text="创建任务" type="default" size="mini"></t-button>
    <t-clock 
    ></t-clock>
+   <t-confirm bindconfirm="confirm" ></t-confirm>
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>
